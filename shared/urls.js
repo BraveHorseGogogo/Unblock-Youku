@@ -56,7 +56,8 @@ unblock_youku.header_urls = [
     'http://www.bilibili.com/*',
     'http://interface.bilibili.com/*',
     'http://bangumi.bilibili.com/*',
-    'http://kandian.com/player/getEpgInfo*'
+    'http://kandian.com/player/getEpgInfo*',
+    'https://pstream.api.mgtv.com/*'
 ];
 
 // These URLs can work with the redirect functionality (mainly used in Flash players).
